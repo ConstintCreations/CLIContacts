@@ -10,9 +10,9 @@ This is a simple Python CLI Contact Book Made with Argparse
  - Clear Contacts
  - List Contacts
 
-## Insalation
+## Instalation
 
-Can be run from TestPyPi
+    pip install -i https://test.pypi.org/simple/ rw2-Constint-CLIContacts
 
 ## Usage
 
