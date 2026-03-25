@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rw2_Constint_CLIContacts"
+version = "0.0.1"
+dependencies = []
+
+[project.scripts]
+contact = "rw2_Constint_CLIContacts.main:main"
